@@ -8,13 +8,13 @@
 	"unityinter": "Interstitial_Android",
 	"unityreward": "Rewarded_Android",
 
-		"admobbanner": "",
-			"admobinter": "",
-				"admobreward": "",
+		"admobbanner": "ca-app-pub-4717046364682563/5828778967",
+			"admobinter": "ca-app-pub-4717046364682563/3940982226",
+				"admobreward": "ca-app-pub-4717046364682563/3749410538",
 				
 			"adsswitch details ":"0:auto  1 admob 2 unity",
 
-"adsswitch":"2"
+"adsswitch":"1"
 
 
 	
